@@ -1,0 +1,11 @@
+.board-row {
+  display: flex;
+  gap: 5px;
+  margin-top: 5px;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+}

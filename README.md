@@ -5,7 +5,7 @@ This is a "Tic-Tac-Toe" game. It's a simple project good to start learning React
 To start the project
 
 ```terminal
-npm vite@latest . -- --template react
+npm create vite@latest . -- --template react
 ```
 
 To run a project locally
